@@ -9,8 +9,6 @@ if bool(os.environ.get("WEBHOOK", False)):
 else:
     from config import Config
 
-INFO = Config.REDIS_URI.split(":")
-
 DB = redis.StrictRedis(
     host=INFO[0],
     port=INFO[1],
