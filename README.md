@@ -1,4 +1,4 @@
-# Mega Link Downloader Bot
+# Mega Link Downloader Bot (First Upload your config.py File)
 <p align="center"><b>This is a telegram bot to download mega.nz links and return them as files/videos - Made by a 100% noob!</b></p>
 
 <p align="center">(When I mean noob I really mean noob!)</p>
